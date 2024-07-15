@@ -9,6 +9,7 @@
         "laravel/framework": "^11.9",
         "laravel/sanctum": "^4.0",
         "laravel/tinker": "^2.9",
+        "mailslurp/mailslurp-client-php": "^15.19",
         "symfony/dom-crawler": "^7.1"
     },
     "require-dev": {
